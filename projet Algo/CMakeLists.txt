@@ -7,10 +7,13 @@ include_directories(.)
 
 add_executable(Projet_algo
         main.c
-        produit.c
-        produit.h
-        Struct.c
-        Struct.h
-        commande.c
-        commande.h
-        main.h)
+        Gestion/produit/produit.c
+        Gestion/produit/produit.h
+        Structure/Struct.c
+        Structure/Struct.h
+        Gestion/commande/commande.c
+        Gestion/commande/commande.h
+        main.h
+        Gestion/clients/clients.c
+        Gestion/clients/clients.h
+        Gestion/clients/clients.h)
