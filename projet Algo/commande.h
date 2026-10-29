@@ -16,4 +16,4 @@
 float calculTauxRemise(float montantBrutHT);
 void  calculCommande(Commande *c);
 
-#ifndef COMMANDE_H
+#endif COMMANDE_H

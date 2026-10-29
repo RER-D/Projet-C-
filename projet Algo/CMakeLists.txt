@@ -12,4 +12,5 @@ add_executable(Projet_algo
         Struct.c
         Struct.h
         commande.c
-        commande.h)
+        commande.h
+        main.h)
