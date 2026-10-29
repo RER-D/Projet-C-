@@ -58,31 +58,40 @@ build CMakeFiles/Projet_algo.dir/main.c.obj: C_COMPILER__Projet_algo_unscanned_D
   OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir
   TARGET_SUPPORT_DIR = CMakeFiles\Projet_algo.dir
 
-build CMakeFiles/Projet_algo.dir/produit.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/produit.c || cmake_object_order_depends_target_Projet_algo
+build CMakeFiles/Projet_algo.dir/Gestion/produit/produit.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/Gestion/produit/produit.c || cmake_object_order_depends_target_Projet_algo
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\Projet_algo.dir\produit.c.obj.d
+  DEP_FILE = CMakeFiles\Projet_algo.dir\Gestion\produit\produit.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   INCLUDES = -I"C:/Users/romai/Downloads/projet Algo/projet Algo/."
   OBJECT_DIR = CMakeFiles\Projet_algo.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir\Gestion\produit
   TARGET_SUPPORT_DIR = CMakeFiles\Projet_algo.dir
 
-build CMakeFiles/Projet_algo.dir/Struct.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/Struct.c || cmake_object_order_depends_target_Projet_algo
+build CMakeFiles/Projet_algo.dir/Structure/Struct.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/Structure/Struct.c || cmake_object_order_depends_target_Projet_algo
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\Projet_algo.dir\Struct.c.obj.d
+  DEP_FILE = CMakeFiles\Projet_algo.dir\Structure\Struct.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   INCLUDES = -I"C:/Users/romai/Downloads/projet Algo/projet Algo/."
   OBJECT_DIR = CMakeFiles\Projet_algo.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir\Structure
   TARGET_SUPPORT_DIR = CMakeFiles\Projet_algo.dir
 
-build CMakeFiles/Projet_algo.dir/commande.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/commande.c || cmake_object_order_depends_target_Projet_algo
+build CMakeFiles/Projet_algo.dir/Gestion/commande/commande.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/Gestion/commande/commande.c || cmake_object_order_depends_target_Projet_algo
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\Projet_algo.dir\commande.c.obj.d
+  DEP_FILE = CMakeFiles\Projet_algo.dir\Gestion\commande\commande.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   INCLUDES = -I"C:/Users/romai/Downloads/projet Algo/projet Algo/."
   OBJECT_DIR = CMakeFiles\Projet_algo.dir
-  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir\Gestion\commande
+  TARGET_SUPPORT_DIR = CMakeFiles\Projet_algo.dir
+
+build CMakeFiles/Projet_algo.dir/Gestion/clients/client.c.obj: C_COMPILER__Projet_algo_unscanned_Debug C$:/Users/romai/Downloads/projet$ Algo/projet$ Algo/Gestion/clients/client.c || cmake_object_order_depends_target_Projet_algo
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Projet_algo.dir\Gestion\clients\client.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/romai/Downloads/projet Algo/projet Algo/."
+  OBJECT_DIR = CMakeFiles\Projet_algo.dir
+  OBJECT_FILE_DIR = CMakeFiles\Projet_algo.dir\Gestion\clients
   TARGET_SUPPORT_DIR = CMakeFiles\Projet_algo.dir
 
 
@@ -93,7 +102,7 @@ build CMakeFiles/Projet_algo.dir/commande.c.obj: C_COMPILER__Projet_algo_unscann
 #############################################
 # Link the executable Projet_algo.exe
 
-build Projet_algo.exe: C_EXECUTABLE_LINKER__Projet_algo_Debug CMakeFiles/Projet_algo.dir/main.c.obj CMakeFiles/Projet_algo.dir/produit.c.obj CMakeFiles/Projet_algo.dir/Struct.c.obj CMakeFiles/Projet_algo.dir/commande.c.obj
+build Projet_algo.exe: C_EXECUTABLE_LINKER__Projet_algo_Debug CMakeFiles/Projet_algo.dir/main.c.obj CMakeFiles/Projet_algo.dir/Gestion/produit/produit.c.obj CMakeFiles/Projet_algo.dir/Structure/Struct.c.obj CMakeFiles/Projet_algo.dir/Gestion/commande/commande.c.obj CMakeFiles/Projet_algo.dir/Gestion/clients/client.c.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
