@@ -19,8 +19,8 @@
  * ========================================================================== */
 #include <stdio.h>
 #include <stdlib.h>
-#include "produit.h"
-#include "Struct.h"
+#include "produit/produit.h"
+#include "Structure/Struct.h"
 
 /* --------------------------------------------------------------------------
  * Lecture d'un choix au clavier (version simple, suffisant pour demarrer).

@@ -7,20 +7,26 @@
 },
 {
   "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\produit.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\produit.c\"",
-  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/produit.c",
-  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/produit.c.obj"
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\Gestion\\produit\\produit.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\Gestion\\produit\\produit.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/Gestion/produit/produit.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/Gestion/produit/produit.c.obj"
 },
 {
   "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\Struct.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\Struct.c\"",
-  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/Struct.c",
-  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/Struct.c.obj"
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\Structure\\Struct.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\Structure\\Struct.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/Structure/Struct.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/Structure/Struct.c.obj"
 },
 {
   "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
-  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\commande.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\commande.c\"",
-  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/commande.c",
-  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/commande.c.obj"
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\Gestion\\commande\\commande.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\Gestion\\commande\\commande.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/Gestion/commande/commande.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/Gestion/commande/commande.c.obj"
+},
+{
+  "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\Gestion\\clients\\client.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\Gestion\\clients\\client.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/Gestion/clients/client.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/Gestion/clients/client.c.obj"
 }
 ]
