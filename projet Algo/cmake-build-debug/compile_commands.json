@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\main.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\main.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/main.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\produit.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\produit.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/produit.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/produit.c.obj"
+},
+{
+  "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\Struct.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\Struct.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/Struct.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/Struct.c.obj"
+},
+{
+  "directory": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -I\"C:/Users/romai/Downloads/projet Algo/projet Algo/.\" -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Projet_algo.dir\\commande.c.obj -c \"C:\\Users\\romai\\Downloads\\projet Algo\\projet Algo\\commande.c\"",
+  "file": "C:/Users/romai/Downloads/projet Algo/projet Algo/commande.c",
+  "output": "C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug/CMakeFiles/Projet_algo.dir/commande.c.obj"
+}
+]

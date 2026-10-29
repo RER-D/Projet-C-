@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2026.2.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2026.2.3.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\romai\Downloads\projet Algo\projet Algo" -B "C:\Users\romai\Downloads\projet Algo\projet Algo\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/romai/Downloads/projet Algo/projet Algo/cmake-build-debug
